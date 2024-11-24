@@ -1,4 +1,4 @@
-  =>  Template Name    : Restoran - Bootstrap Restaurant Template
+  =>  Template Name    : AlCo Bistro
 
   =>  Template Link    : https://htmlcodex.com/bootstrap-restaurant-template
 
